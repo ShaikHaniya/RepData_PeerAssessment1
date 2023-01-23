@@ -1,3 +1,4 @@
+[PA1_TEMPLATE.txt](https://github.com/ShaikHaniya/RepData_PeerAssessment1/files/10480603/PA1_TEMPLATE.txt)
 ---
 title: "Reproducible Research: Peer Assessment 1"
 output: 
