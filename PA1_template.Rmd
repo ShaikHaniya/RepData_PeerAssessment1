@@ -8,7 +8,13 @@ output:
 
 ## Loading and preprocessing the data
 
-
+```{r }
+initialData <- read.csv("activity.csv", colClasses=c("numeric", "Date", "numeric"))
+```
+```{r}
+head(initialData)
+str(initialData)
+```
 
 ## What is mean total number of steps taken per day?
 
